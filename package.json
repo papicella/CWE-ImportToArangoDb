@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "arangojs": "^7.2.0",
+    "arangojs": "^7.4.0",
     "xml-js": "^1.6.11"
   }
 }
